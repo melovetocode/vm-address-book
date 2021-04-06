@@ -1,0 +1,21 @@
+{
+    "ADDRESS": {
+      "ID": "식별 번호",
+      "NAME": "이름",
+      "LOCATION": "위치",
+      "OFFICE": "사무실",
+      "OFFICE_PHONE": "사무실 전화 번호",
+      "CELL_PHONE": "휴대 전화 번호"
+    },
+    "BUTTON" : {
+        "DELETE": "삭제",
+        "UPDATE": "업데이트",
+        "ADD": "추가"
+    },
+    "MESSAGE": {
+      "REQUIRED": "필수",
+      "UPDATE_HEADER": "아래 항목과 함께 업데이트 된 주소록 :",
+      "UPDATE": "업데이트",
+      "NEW": "그냥 추가"
+    }
+}

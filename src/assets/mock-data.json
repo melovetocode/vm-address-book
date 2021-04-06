@@ -1,0 +1,6 @@
+{
+    "record": [
+        {"id": 501, "name": "John Smith", "location": "Palo Alto", "office": "C-103", "officePhone": "x55778", "cellPhone": "650-353-1239"},
+        {"id": 502, "name": "Mary Watson", "location": "Austin", "office": "T-212", "officePhone": "x11738", "cellPhone": "216-762-0528"}
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "ADDRESS": {
+      "ID": "识别号",
+      "NAME": "名称",
+      "LOCATION": "位置",
+      "OFFICE": "办公室",
+      "OFFICE_PHONE": "办公室电话号码",
+      "CELL_PHONE": "手机号码"
+    },
+    "BUTTON" : {
+        "DELETE": "删除",
+        "UPDATE": "更新",
+        "ADD": "添加"
+    },
+    "MESSAGE": {
+      "REQUIRED": "必须填写",
+      "UPDATE_HEADER": "通讯录更新内容如下",
+      "UPDATE": "更新",
+      "NEW": "新添加"
+    }
+}

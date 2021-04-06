@@ -1,0 +1,22 @@
+{
+    "ADDRESS": {
+      "ID": "識別號",
+      "NAME": "名稱",
+      "LOCATION": "位置",
+      "OFFICE": "辦公室",
+      "OFFICE_PHONE": "辦公室電話號碼",
+      "CELL_PHONE": "手機號碼"
+    },
+    "BUTTON" : {
+        "DELETE": "删除",
+        "UPDATE": "更新",
+        "ADD": "添加"
+    },
+    "MESSAGE": {
+      "REQUIRED": "必須填寫",
+      "UPDATE_HEADER": "通訊錄更新內容如下:",
+      "UPDATE": "更新",
+      "NEW": "新添加"
+    }
+}
+  

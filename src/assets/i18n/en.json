@@ -1,0 +1,22 @@
+{
+    "ADDRESS": {
+      "ID": "ID",
+      "NAME": "Name",
+      "LOCATION": "Location",
+      "OFFICE": "Office",
+      "OFFICE_PHONE": "Office Phone",
+      "CELL_PHONE": "Cell Phone"
+    },
+    "BUTTON" : {
+        "DELETE": "Delete",
+        "UPDATE": "Update",
+        "ADD": "Add"
+    },
+    "MESSAGE": {
+      "REQUIRED": "Required",
+      "UPDATE_HEADER": "Updated address book with the entries below:",
+      "UPDATE": "Updated",
+      "NEW": "Just Added"
+    }
+}
+  

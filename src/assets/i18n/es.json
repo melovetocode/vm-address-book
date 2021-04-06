@@ -1,0 +1,21 @@
+{
+    "ADDRESS": {
+      "ID": "ID",
+      "NAME": "Nombre",
+      "LOCATION": "Ubicación",
+      "OFFICE": "Oficina",
+      "OFFICE_PHONE": "Número de teléfono de oficina",
+      "CELL_PHONE": "Número de teléfono celular"
+    },
+    "BUTTON" : {
+        "DELETE": "Eliminar",
+        "UPDATE": "Actualización",
+        "ADD": "Añadir"
+    },
+    "MESSAGE": {
+      "REQUIRED": "Obligatorio",
+      "UPDATE_HEADER": "Libreta de direcciones actualizada con las siguientes entradas:",
+      "UPDATE": "Actualización",
+      "NEW": "Acabo de añadir"
+    }
+}
