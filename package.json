@@ -1,5 +1,5 @@
 {
-  "name": "vm-addr-book",
+  "name": "vm-address-book",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

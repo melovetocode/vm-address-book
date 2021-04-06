@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "vm-addr-book": {
+    "vm-address-book": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/vm-addr-book",
+            "outputPath": "dist/vm-address-book",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -65,18 +65,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "vm-addr-book:build"
+            "browserTarget": "vm-address-book:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "vm-addr-book:build:production"
+              "browserTarget": "vm-address-book:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "vm-addr-book:build"
+            "browserTarget": "vm-address-book:build"
           }
         },
         "test": {
@@ -113,16 +113,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "vm-addr-book:serve"
+            "devServerTarget": "vm-address-book:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "vm-addr-book:serve:production"
+              "devServerTarget": "vm-address-book:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "vm-addr-book"
+  "defaultProject": "vm-address-book"
 }
